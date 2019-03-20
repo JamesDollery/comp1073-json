@@ -36,31 +36,6 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
-    },
-    {
-      "name": "Party Mix",
-      "calories": 450,
-      "type": "ice cream",
-      "ingredients": [
-        "bananas",
-        "cherries",
-        "strawberries",
-        "caramel",
-        "candy sprinkles"
-      ],
-      "image": "ice-cream-xtra1.svg"
-    },
-    {
-      "name": "Bamboozled Banana",
-      "calories": 425,
-      "type": "frozen yogurt",
-      "ingredients": [
-        "banana",
-        "lime",
-        "lemon",
-        "milk chocolate chips"
-      ],
-      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
